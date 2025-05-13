@@ -22,7 +22,7 @@ This site was built to demonstrate end-to-end design thinking across:
 _Coming soon — screenshots of homepage, blog articles, mobile view, and Photoshop design previews._
 
 ## 🔗 Live Website
-[Visit Cyper Sports](https://www.cypersports.com) *(or your actual link)*
+[Visit Cyper Sports](https://www.cypersports.com)
 
 ## 💡 Highlights
 - Fully built and launched using WordPress CMS
