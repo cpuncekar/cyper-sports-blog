@@ -1,33 +1,37 @@
 # 🏈 Cyper Sports Blog
 
 **The Articles You Crave.**  
-Cyper Sports is a conceptual sports news blog designed to showcase UI/UX design, SEO strategy, and content structure using WordPress.
+Cyper Sports is a real, live sports blog concept designed to showcase UI/UX design, SEO strategy, and content structure using WordPress.
 
 ## 🔍 Project Overview
-This site was built as part of a personal design portfolio to demonstrate skills in:
+This site was built to demonstrate end-to-end design thinking across:
 - Web content structure
 - Blog layout and user experience
 - Responsive design
 - SEO fundamentals and spam protection
+- **Graphic design and featured thumbnails created in Adobe Photoshop**
 
 ## 🛠 Tech Stack
 - WordPress (custom theme setup)
 - HTML/CSS
 - Basic PHP for blog logic
-- SEO plugins + spam filtering
+- **Adobe Photoshop (graphics, featured images, and layout mockups)**
+- SEO plugins + security tools
 
 ## 📸 Screenshots
-_Coming soon — screenshots of homepage, blog articles, and mobile view._
+_Coming soon — screenshots of homepage, blog articles, mobile view, and Photoshop design previews._
 
 ## 🔗 Live Website
 [Visit Cyper Sports](https://www.cypersports.com) *(or your actual link)*
 
 ## 💡 Highlights
+- Fully built and launched using WordPress CMS
 - Designed around the fictional persona “Jonathan Smith”
-- Includes working spam filtering and anti-bot logic
-- Created original article templates and ad layouts
-- Positioned as a sample project for Sports & Media job applications
+- Created all blog visuals and graphics using **Photoshop**
+- Spam filtering and anti-bot protection implemented
+- Custom article templates and ad-ready layout
+- Positioned as a portfolio project for Sports & Media industries
 
 ---
 
-> 🔒 Note: This is a demo site. All content is fictional or generated for educational use.
+This is an independently developed project to showcase full-stack design thinking—from content strategy and branding to development and visual design.
